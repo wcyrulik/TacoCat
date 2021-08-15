@@ -23,6 +23,9 @@ h1,h2,h3,h4,h5,h6 {
 main>.container {
     padding: 60px 15px 0;
 }
+#msg {
+    font-size: large;
+}
 
 footer {
     padding-right: 1rem;
